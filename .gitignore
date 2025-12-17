@@ -1,0 +1,14 @@
+.env
+_*/
+__pycache__
+out-*
+wandb/
+data/**/input.txt
+data/**/meta.pkl
+data/**/*.bin
+!data/listops/
+!data/listops/*.pkl
+*_tst.py
+results/
+
+!**/.gitkeep
