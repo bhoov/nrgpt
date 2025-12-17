@@ -1,6 +1,6 @@
-# nrgpt-iclr
+# NRGPT
 
-Code supplementary to accompany the NRGPT ICLR submission
+Code supplementary to accompany the NRGPT paper
 
 ## Getting started
 
